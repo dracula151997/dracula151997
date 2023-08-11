@@ -11,7 +11,6 @@
 
 - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/14LFRUUJt6HNe1hGlNPcz49uatLkiUvqq/view?usp=share_link)
 
-- ⚡ Fun fact **I'm producing bugs and then squashing them.**
 
 <h3 align="left">Projects I've worked on</h3>
 
