@@ -1,35 +1,32 @@
-<h1 align="center">Hi 👋, I'm Hassan Salah</h1>
-<h3 align="center">A passionate Android developer from Egypt</h3>
+# Hi 👋, I'm Hassan Salah
 
-<p align="left"> <a href="https://twitter.com/dracula1597" target="blank"><img src="https://img.shields.io/twitter/follow/dracula1597?logo=twitter&style=for-the-badge" alt="dracula1597" /></a> </p>
+### A Passionate Android Developer from Egypt
 
-- 👨‍💻 All of my projects are available at [Github](https://github.com/dracula151997)
+[![Twitter Follow](https://img.shields.io/twitter/follow/dracula1597?logo=twitter&style=for-the-badge)](https://twitter.com/dracula1597)
 
-- 💬 Ask me about **Android**
+- 👨‍💻 **All of my projects:** [My GitHub](https://github.com/dracula151997)
+- 💬 **Ask me about:** Android Development
+- 📫 **How to reach me:** [hassan.s.mohammed1997@gmail.com](mailto:hassan.s.mohammed1997@gmail.com)
+- 📄 **My Resume:** [View Resume](https://drive.google.com/file/d/14LFRUUJt6HNe1hGlNPcz49uatLkiUvqq/view?usp=share_link)
 
-- 📫 How to reach me **hassan.s.mohammed1997@gmail.com**
-
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/14LFRUUJt6HNe1hGlNPcz49uatLkiUvqq/view?usp=share_link)
-
-
-<h3 align="left">Projects I've worked on</h3>
-
+## Projects I've Worked On
 - [Souhoola App](https://play.google.com/store/apps/details?id=com.cicapital.cicf.android.myapplication&hl=en_US&gl=US)
 - [Softex GPS Tracker](https://play.google.com/store/apps/details?id=com.softexsw.gps.trackers&hl=en_US&gl=US)
 - [Softex Dashboard](https://play.google.com/store/apps/details?id=com.softexsw.softexstatics&hl=en_US&gl=US)
 - [UAE Info](https://play.google.com/store/apps/details?id=com.barq.uaeinfo&hl=en_US&gl=US)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/dracula1597" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="dracula1597" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/hassanmohammed1997/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/hassanmohammed1997/" height="30" width="40" /></a>
-</p>
+## Connect with Me
+[![Twitter](https://img.shields.io/badge/Twitter-dracula1597-blue?style=flat-square&logo=twitter)](https://twitter.com/dracula1597)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Hassan%20Mohammed-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/hassanmohammed1997/)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.ruby-lang.org/en/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40"/> </a> </p>
+## Languages and Tools
+![Android](https://img.shields.io/badge/-Android-3DDC84?style=flat-square&logo=android)
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java)
+![Kotlin](https://img.shields.io/badge/-Kotlin-7F52FF?style=flat-square&logo=kotlin)
+![Ruby](https://img.shields.io/badge/-Ruby-CC342D?style=flat-square&logo=ruby)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dracula151997&show_icons=true&locale=en&layout=compact" alt="dracula151997" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dracula151997&show_icons=true&locale=en" alt="dracula151997" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dracula151997&" alt="dracula151997" /></p>
+## GitHub Stats
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=dracula151997&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+<img src="https://github-readme-stats.vercel.app/api?username=dracula151997&show_icons=true&locale=en" alt="GitHub Stats" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=dracula151997&" alt="GitHub Streak" />
