@@ -5,9 +5,6 @@
 - 💬 **Ask me about:** Android Development, KMM, Kotlin, Jetpack Compose
 - 📫 **How to reach me:** [hassan.s.mohammed1997@gmail.com](mailto:hassan.s.mohammed1997@gmail.com)
 - 📄 **My Resume:** [View Resume](https://drive.google.com/file/d/14LFRUUJt6HNe1hGlNPcz49uatLkiUvqq/view?usp=share_link)
-
-Here’s how you can enhance the **"Live Projects"** section of your README to make it more engaging and professional:
-
 ---
 
 ## Live Projects 🚀
@@ -29,8 +26,6 @@ Here are some of the Android applications I've contributed to and built:
   - **Comprehensive Asset Tracking**: Visualize account assets through dynamic graphs.
   - **Global Transfers**: Facilitates seamless transfers to and from Derayah Global accounts.
   - **Investment Fund Subscriptions**: Enables easy comparison, subscription, and monitoring of fund details.
-  - **Premium Services**: Subscribe to packages like "Derayah Insight" and "Argaam Derayah" for enhanced market analytics.
-  - **Customer Support**: Connect via unified number, email, or social media channels for assistance.
 
   Whether you’re a seasoned trader or an investment enthusiast, Derayah Financial offers a professional-grade solution to manage and grow your portfolio.
 
